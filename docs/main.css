@@ -116,12 +116,12 @@ button:hover{
         
         display: grid;
         
-        grid-template-columns: [first] 300px;
+        grid-template-columns: [first] 90%;
         
         grid-template-rows: repeat(3,400px);
         grid-template-rows: 355px 355px 355px;
         justify-content: space-evenly;
-        margin: 60px 5px 0 5px;
+        margin: 60px 2px 0 2px;
       }
     #part1 {
         grid-column-start: first;
